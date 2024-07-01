@@ -1,0 +1,9 @@
+<testsuite name="Mocha Tests" tests="1" failures="0" errors="1" skipped="0" timestamp="Mon, 01 Jul 2024 02:42:34 GMT" time="35.059">
+<testcase classname="Zap Imoveis - Pesquisa de im&#xF3;vel" name="Validar a pesquisa de im&#xF3;veis no site Zap Im&#xF3;veis" time="0"><failure>Timed out retrying after 4000ms: Expected to find content: &#x27;buscar&#x27; within the selector: &#x27;button&#x27; but never did.
+AssertionError: Timed out retrying after 4000ms: Expected to find content: &#x27;buscar&#x27; within the selector: &#x27;button&#x27; but never did.
+    at Context.eval (https://www.zapimoveis.com.br/__cypress/tests?p=cypress\e2e\Search.feature:16416:12)
+    at Registry.runStepDefininition (https://www.zapimoveis.com.br/__cypress/tests?p=cypress\e2e\Search.feature:8502:48)
+    at Object.fn (https://www.zapimoveis.com.br/__cypress/tests?p=cypress\e2e\Search.feature:15701:43)
+    at runStepWithLogGroup (https://www.zapimoveis.com.br/__cypress/tests?p=cypress\e2e\Search.feature:15174:29)
+    at Context.eval (https://www.zapimoveis.com.br/__cypress/tests?p=cypress\e2e\Search.feature:15697:62)</failure></testcase>
+</testsuite>
